@@ -1,0 +1,1 @@
+Text Editor made with pure C# and Win API calls. I'm building this all in C# in the hopes of learning how Text Editors work as well as learning some of the lower level details of communication to an OS (in this case Windows only). I may explore support for MacOS and Linux later down the line but for now, I'd like to focus on making the Text Editor work well on Windows. 
