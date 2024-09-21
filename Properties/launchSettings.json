@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Leditor": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

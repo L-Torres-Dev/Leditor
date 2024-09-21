@@ -1,0 +1,15 @@
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\bin\Debug\net6.0\Leditor.exe
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\bin\Debug\net6.0\Leditor.deps.json
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\bin\Debug\net6.0\Leditor.runtimeconfig.json
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\bin\Debug\net6.0\Leditor.dll
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\bin\Debug\net6.0\Leditor.pdb
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\obj\Debug\net6.0\Leditor.csproj.AssemblyReference.cache
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\obj\Debug\net6.0\Leditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\obj\Debug\net6.0\Leditor.AssemblyInfoInputs.cache
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\obj\Debug\net6.0\Leditor.AssemblyInfo.cs
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\obj\Debug\net6.0\Leditor.csproj.CoreCompileInputs.cache
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\obj\Debug\net6.0\Leditor.dll
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\obj\Debug\net6.0\refint\Leditor.dll
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\obj\Debug\net6.0\Leditor.pdb
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\obj\Debug\net6.0\Leditor.genruntimeconfig.cache
+C:\Users\louie\CSharp_Projects\Leditor\Leditor\obj\Debug\net6.0\ref\Leditor.dll
